@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About me
+title: O mnie
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+21 STUDIO to studio z grami akcji, grami przygodowymi i platformówkami.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
+FAQ:
+- Czy wasze gry są darmowe, i gdzie je znaleść?
+- Nasze gry są darmowe. Planujemy jednak tworzyć gry płatne, które będą na Steamie.
 
 What else do you need?
 
